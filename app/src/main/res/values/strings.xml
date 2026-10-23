@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Pipeline</string>
+    <string name="accessibility_description">Runs your configured Pipeline workflow in supported installed apps.</string>
+</resources>
